@@ -1,0 +1,10 @@
+.env
+node_modules/*
+artifacts/*
+cache/*
+*.bkp
+*.svg
+output/
+data/
+reshaped/
+.ipynb_checkpoints/
